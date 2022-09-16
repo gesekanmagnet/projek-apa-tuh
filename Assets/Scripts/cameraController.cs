@@ -15,7 +15,7 @@ public class cameraController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		
+		Debug.Log("haha");
 	}
 	
 	void LateUpdate()
